@@ -172,7 +172,6 @@ This project is open-source under the **MIT License**. Feel free to use, modify,
 
 🔗 **References**:  
 - [SX1262 Datasheet](https://www.semtech.com/products/wireless-rf/lora-transceivers/sx1262)  
-- [STM32 HAL Documentation](https://www.st.com/en/development-tools/stm32cube.html)  
 
 ---
 
