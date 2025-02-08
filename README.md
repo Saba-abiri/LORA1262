@@ -1,6 +1,3 @@
-Here’s an improved **README.md** for your **LoRa1262 STM32 HAL** project, incorporating technical details from your `SX1262.c` and `SX1262.h` files.  
-
----
 
 # 🚀 **LoRa1262 STM32 HAL Driver**
 A **highly optimized STM32 HAL-based driver** for the **LoRa1262 (SX1262)** module, enabling **LoRa communication** using SPI. This project is built for **STM32CubeIDE** and is designed for **low-power, long-range** wireless communication.
