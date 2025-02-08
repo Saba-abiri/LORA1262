@@ -1,0 +1,28 @@
+--cpu Cortex-M0+
+"lora_1262f30_receive\startup_stm32g030xx.o"
+"lora_1262f30_receive\main.o"
+"lora_1262f30_receive\stm32g0xx_it.o"
+"lora_1262f30_receive\stm32g0xx_hal_msp.o"
+"lora_1262f30_receive\stm32g0xx_hal_spi.o"
+"lora_1262f30_receive\stm32g0xx_hal_spi_ex.o"
+"lora_1262f30_receive\stm32g0xx_hal_rcc.o"
+"lora_1262f30_receive\stm32g0xx_hal_rcc_ex.o"
+"lora_1262f30_receive\stm32g0xx_ll_rcc.o"
+"lora_1262f30_receive\stm32g0xx_hal_flash.o"
+"lora_1262f30_receive\stm32g0xx_hal_flash_ex.o"
+"lora_1262f30_receive\stm32g0xx_hal_gpio.o"
+"lora_1262f30_receive\stm32g0xx_hal_dma.o"
+"lora_1262f30_receive\stm32g0xx_hal_dma_ex.o"
+"lora_1262f30_receive\stm32g0xx_hal_pwr.o"
+"lora_1262f30_receive\stm32g0xx_hal_pwr_ex.o"
+"lora_1262f30_receive\stm32g0xx_hal_cortex.o"
+"lora_1262f30_receive\stm32g0xx_hal.o"
+"lora_1262f30_receive\stm32g0xx_hal_exti.o"
+"lora_1262f30_receive\stm32g0xx_hal_tim.o"
+"lora_1262f30_receive\stm32g0xx_hal_tim_ex.o"
+"lora_1262f30_receive\system_stm32g0xx.o"
+"lora_1262f30_receive\sx1262.o"
+--strict --scatter "LORA_1262f30_Receive\LORA_1262f30_Receive.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "LORA_1262f30_Receive.map" -o LORA_1262f30_Receive\LORA_1262f30_Receive.axf
