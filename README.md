@@ -2,7 +2,8 @@
 # 🚀 **LoRa1262 STM32 HAL Driver**
 A **highly optimized STM32 HAL-based driver** for the **LoRa1262 (SX1262)** module, enabling **LoRa communication** using SPI. This project is built for **STM32CubeIDE** and is designed for **low-power, long-range** wireless communication.
 
-![LoRa](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/LoRaWAN_Logo.svg/512px-LoRaWAN_Logo.svg.png)
+![image](https://github.com/user-attachments/assets/65f4a5bc-200a-4d3e-9188-d99eeec2a38e)
+
 
 ---
 
