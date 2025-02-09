@@ -107,19 +107,7 @@ int main(void)
 	SX1262_Get_st()->SPI = hspi1;
 	
 	SX1262_Init();
-	//SX1262_WriteReg(&SX1262_Config, 0x06C0,0x33);
-//	if(Mode_Transmit == 1)
-//	{
-//		SX1262_RxMode(&SX1262_Config);
-//	}
-	
-	
-
-	
-//	if(Mode_Receive)
-//		HAL_SPI_Receive_IT(&hspi1,(uint8_t *)recbuf,5);
-//	HAL_GPIO_WritePin(NSS_LORA_GPIO_Port,NSS_LORA_Pin,GPIO_PIN_RESET);
-
+  //if receive
 if(Mode_Receive == 1)
 		{
 			SX1262_setModeReceive();
