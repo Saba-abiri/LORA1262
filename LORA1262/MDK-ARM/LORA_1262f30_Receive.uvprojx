@@ -341,7 +341,7 @@
               <MiscControls></MiscControls>
               <Define>USE_HAL_DRIVER,STM32G030xx</Define>
               <Undefine></Undefine>
-              <IncludePath>../Core/Inc;../Drivers/STM32G0xx_HAL_Driver/Inc;../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy;../Drivers/CMSIS/Device/ST/STM32G0xx/Include;../Drivers/CMSIS/Include;../ibs</IncludePath>
+              <IncludePath>../Core/Inc;../Drivers/STM32G0xx_HAL_Driver/Inc;../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy;../Drivers/CMSIS/Device/ST/STM32G0xx/Include;../Drivers/CMSIS/Include;..\Libs</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -518,7 +518,7 @@
             <File>
               <FileName>SX1262.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\ibs\Src\SX1262.c</FilePath>
+              <FilePath>..\Libs\Src\SX1262.c</FilePath>
             </File>
           </Files>
         </Group>

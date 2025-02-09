@@ -8,12 +8,12 @@ lora_1262f30_receive/stm32g0xx_hal_flash.o: \
   ..\Drivers\CMSIS\Device\ST\STM32G0xx\Include\stm32g030xx.h \
   ..\Drivers\CMSIS\Include\core_cm0plus.h \
   C:\Keil_v5\ARM\ARMCLANG\include\stdint.h \
-  D:\nira\projects\LORA_SX1262\Code\LORA_1262f30\Receive\Drivers\CMSIS\Include\cmsis_version.h \
-  D:\nira\projects\LORA_SX1262\Code\LORA_1262f30\Receive\Drivers\CMSIS\Include\cmsis_compiler.h \
-  D:\nira\projects\LORA_SX1262\Code\LORA_1262f30\Receive\Drivers\CMSIS\Include\cmsis_armclang.h \
+  D:\nira\self_training\github\Lora\LORA1262\LORA1262\Drivers\CMSIS\Include\cmsis_version.h \
+  D:\nira\self_training\github\Lora\LORA1262\LORA1262\Drivers\CMSIS\Include\cmsis_compiler.h \
+  D:\nira\self_training\github\Lora\LORA1262\LORA1262\Drivers\CMSIS\Include\cmsis_armclang.h \
   C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h \
   C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h \
-  D:\nira\projects\LORA_SX1262\Code\LORA_1262f30\Receive\Drivers\CMSIS\Include\mpu_armv7.h \
+  D:\nira\self_training\github\Lora\LORA1262\LORA1262\Drivers\CMSIS\Include\mpu_armv7.h \
   ..\Drivers\CMSIS\Device\ST\STM32G0xx\Include\system_stm32g0xx.h \
   ..\Drivers\STM32G0xx_HAL_Driver\Inc\Legacy\stm32_hal_legacy.h \
   C:\Keil_v5\ARM\ARMCLANG\include\stddef.h \
