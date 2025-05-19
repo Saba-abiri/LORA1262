@@ -4,7 +4,7 @@ A **highly optimized STM32 HAL-based driver** for the **LoRa1262 (SX1262)** modu
 
 ![image](https://github.com/user-attachments/assets/65f4a5bc-200a-4d3e-9188-d99eeec2a38e)
  
- 
+
 ---   
 
 ## 🛠 **Features**
