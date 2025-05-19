@@ -8,7 +8,7 @@ A **highly optimized STM32 HAL-based driver** for the **LoRa1262 (SX1262)** modu
 --- 
 
 ## 🛠 **Features**
-✅ **Full-duplex SPI communication** with SX1262  
+✅ **Full-duplex SPI communication** with SX1262   
 ✅ **LoRa packet transmission and reception**  
 ✅ **Interrupt-based packet handling**  
 ✅ **Standby, Receive, and Transmit modes**  
